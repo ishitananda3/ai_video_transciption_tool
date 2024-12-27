@@ -79,11 +79,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
    ```bash
    git clone  https://github.com/ishitananda3/ai_video_transciption_tool.git
    cd ai-video-transcription-tool
-
-2. To run: (Backend)
-cd backend
-python app.py
-To Run: (Frontend)
-cd frontend
-npm start
+ To run: (Backend)
+- cd backend
+- python app.py
+- To Run: (Frontend)
+- cd frontend
+- npm start
 (Both server should be executing simultaneously)
